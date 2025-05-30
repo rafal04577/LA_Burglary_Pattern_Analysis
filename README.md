@@ -51,10 +51,10 @@ This project explores burglary-related crime patterns in Los Angeles using data 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0** License.  
 You may **view, share, and adapt** the contents with attribution, but **commercial use is not permitted**.
 
-> 📌 *This project was created for personal portfolio use only. Do not copy or reuse without attribution.*
+> *This project was created for personal portfolio use only. Do not copy or reuse without attribution.*
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/rafal-bogdan) or GitHub for collaboration or recruitment.
