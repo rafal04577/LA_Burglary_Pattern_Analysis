@@ -1,10 +1,10 @@
-# 📊 LA Burglary Pattern Analysis (2020–2024)
+# LA Burglary Pattern Analysis (2020–2024)
 
 This project explores burglary-related crime patterns in Los Angeles using data from 2020 to early 2024. It combines data cleaning, exploratory analysis, geospatial visualisation, and machine learning to generate insights that can assist law enforcement in resource allocation and crime prevention.
 
 ---
 
-## 🧠 Objectives
+## Objectives
 
 - Analyse when and where burglaries occur most frequently  
 - Examine demographic patterns among victims  
@@ -13,7 +13,7 @@ This project explores burglary-related crime patterns in Los Angeles using data 
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python** (pandas, matplotlib, seaborn, scikit-learn)  
 - **Jupyter Notebook**  
@@ -22,7 +22,7 @@ This project explores burglary-related crime patterns in Los Angeles using data 
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - **Peak burglary hours**: Late evenings (17:00–20:00)  
 - **Most targeted locations**: Residential dwellings and parking areas  
@@ -34,7 +34,7 @@ This project explores burglary-related crime patterns in Los Angeles using data 
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
@@ -46,7 +46,7 @@ This project explores burglary-related crime patterns in Los Angeles using data 
 
 ---
 
-## 🔒 License & Usage
+## License & Usage
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0** License.  
 You may **view, share, and adapt** the contents with attribution, but **commercial use is not permitted**.
