@@ -15,7 +15,6 @@ This project explores patterns and trends in burglary-related crimes in Los Ange
 - Model performance evaluation via ROC-AUC, confusion matrix, and accuracy.
 - Data visualisations including heatmaps, bar charts, and time-series plots.
 - SHAP analysis for explainability.
-- A rewritten project report (in DOCX) stripped of academic formatting.
 
 ## Files Included
 
