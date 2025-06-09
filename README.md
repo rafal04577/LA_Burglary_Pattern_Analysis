@@ -1,29 +1,33 @@
 # LA Burglary Pattern Analysis
 
-This project focuses on analysing burglary incidents in Los Angeles using real-world crime data. It explores spatial, temporal, and categorical trends to understand patterns and assist in crime prevention strategy development.
+This project explores patterns and trends in burglary-related crimes in Los Angeles using public crime data. The goal was to apply exploratory data analysis, visual storytelling, and classification models to support potential policy and policing insights.
 
-## Contents
+## Key Objectives
 
-- `LA_Burglary_Pattern_Analysis_CLEAN.ipynb`: Main Python notebook containing the full analysis pipeline, from cleaning to visualisation and insight extraction.
-- `LA_Burglary_Pattern_Analysis_CLEAN.pdf`: Polished report version of the notebook for quick review and sharing.
-- `Crime_Data_from_2020_to_Present.csv`: Publicly available crime dataset used for the analysis.
-- `LICENSE`: MIT license covering the usage of this repository.
+- Clean and prepare LAPD crime data with a focus on burglary.
+- Conduct exploratory data analysis (EDA) to visualise spatial, temporal, and categorical crime patterns.
+- Build and evaluate predictive models to classify whether a burglary leads to an arrest.
+- Interpret model behaviour using SHAP values and feature importance.
 
-## Key Techniques Used
+## Features
 
-- Data Cleaning and Preprocessing
-- Time Series Analysis of Crime Trends
-- Location-Based Heatmaps
-- Crime Category Frequency Visualisation
-- Correlation and Grouped Analysis
+- Classification using Random Forest, XGBoost, and SVM.
+- Model performance evaluation via ROC-AUC, confusion matrix, and accuracy.
+- Data visualisations including heatmaps, bar charts, and time-series plots.
+- SHAP analysis for explainability.
+- A rewritten project report (in DOCX) stripped of academic formatting.
 
-## Tools
+## Files Included
 
-- Python (Pandas, Matplotlib, Seaborn, Plotly)
+- `LA_Burglary_Pattern_Analysis.ipynb`: Cleaned analysis notebook.
+- `LA_Burglary_Pattern_Analysis.pdf`: Report with visuals and insights.
+- `LICENSE`: MIT License.
+
+## Technologies
+
+- Python (Pandas, Matplotlib, Seaborn, Scikit-learn, SHAP, XGBoost)
 - Jupyter Notebook
-- Public LAPD Crime Dataset (2020–Present)
 
-## Author
+---
 
-Rafal Bogdan  
-[LinkedIn Profile](https://www.linkedin.com/in/rafal-bogdan)
+This project demonstrates practical skills in data cleaning, visual analytics, and model interpretation relevant to real-world data analysis roles.
