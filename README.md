@@ -1,6 +1,6 @@
 # LA Burglary Pattern Analysis
 
-This project explores patterns and trends in burglary-related crimes in Los Angeles using public crime data. The goal was to apply exploratory data analysis, visual storytelling, and classification models to support potential policy and policing insights.
+This project explores patterns and trends in burglary-related crimes in Los Angeles using public crime data. The goal was to apply exploratory data analysis, visual storytelling and classification models to support potential policy and policing insights.
 
 ## Key Objectives
 
