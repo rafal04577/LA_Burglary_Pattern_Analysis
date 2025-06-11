@@ -15,7 +15,7 @@ This project explores burglary trends in Los Angeles using public crime data fro
 ## Dataset
 Sampled and cleaned burglary records from the LAPD open data portal (2020–present). Original dataset size exceeded 200MB.
 
-"la_burglary_data_sample.csv" — sampled data included for reproducibility  
+"la_burglary_data_sample.csv" - sampled data included for reproducibility  
 Full source: [LAPD Crime Data](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8)
 
 Key fields used:
@@ -50,9 +50,9 @@ Key fields used:
 ---
 
 ## Files Included
-- `LA_Burglary_Pattern_Analysis.ipynb` — cleaned and annotated notebook  
-- `la_burglary_data_sample.csv` — representative subset of the full dataset  
-- `LICENSE` — MIT License
+- `LA_Burglary_Pattern_Analysis.ipynb` - cleaned and annotated notebook  
+- `la_burglary_data_sample.csv` - representative subset of the full dataset  
+- `LICENSE` - MIT License
 
 ---
 
